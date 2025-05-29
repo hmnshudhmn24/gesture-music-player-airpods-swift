@@ -42,9 +42,3 @@ This music player detects head gestures using CoreMotion and simulates gesture d
    - Tap Play to start music.
    - Perform a sharp motion (like a shake or tilt) to trigger gestures.
    - Use Start/Stop Gesture Detection buttons to activate or stop motion tracking.
-
----
-
-## 📄 License
-
-MIT License
